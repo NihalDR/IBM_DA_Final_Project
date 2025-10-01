@@ -1,6 +1,12 @@
 # Airbnb-Hotel-Booking-Analysis
 # Airbnb Data Analysis
 
+## About the Author
+
+- **Name:** Nihal DR
+- **College:** CMR Institute of Technology
+- **Branch:** Artificial Intelligence & Data Science (AI&DS)
+
 ## Project Title
 
 Airbnb Listings Analysis — Insights into property types, pricing, hosts, and availability
