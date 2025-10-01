@@ -96,8 +96,3 @@ jupyter lab
 * `figs/` — images produced by visualizations
 * `README.md` — this file
 
----
-
-## License
-
-Specify a license (e.g., MIT) or the data provider's terms.
